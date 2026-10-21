@@ -396,3 +396,7 @@
 .btn:hover svg {
  opacity: 1;
 }
+
+@import "tailwindcss";
+
+@source "../node_modules/flowbite-datepicker";
